@@ -6,4 +6,4 @@ B = 4
 
 C = A + B
 
-PRUEBA = A + B + C
+PRUEBA = A + 5
